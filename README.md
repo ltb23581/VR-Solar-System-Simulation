@@ -1,18 +1,18 @@
-# Portfolio 1 - Demo 1: Solar System Simulation 🪐
+# UGA Virtual Reality 2025 – Portfolio – Demo 1: Solar System Simulation 🪐
 
-## Description 📚
-This demo demonstrates foundational 3D transformations, object hierarchies, and lighting by building a simple solar system model. The scene includes the **Sun, Earth, and Moon**, showcasing orbital motion and rotations.
+## Description
+This project was created for the **University of Georgia Virtual Reality course** as part of my VR class portfolio.  
+It demonstrates foundational **3D transformations**, **object hierarchies**, and **lighting** by building a simple solar system model featuring the **Sun**, **Earth**, and **Moon** with orbital motion and realistic rotations.
 
-## Core Features ✨
-1. The **Earth orbits the Sun** and the **Moon orbits the Earth**.
+## Core Features 🌍✨
+1. **Orbital system:** The **Earth orbits the Sun** and the **Moon orbits the Earth**.  
 
-2. The Earth is **tilted ~23.5°** to demonstrate seasonal changes.
+2. **Seasonal tilt:** The Earth is tilted approximately **23.5°** to illustrate seasonal changes.  
 
-3. The **Sun acts as the main light source**, illuminating Earth and Moon to show day/night cycles and moon phases.
+3. **Lighting setup:** The **Sun acts as the main light source**, showing day/night cycles and moon phases.  
 
-4. **Materials** and **varying object sizes** are used to distinguish the planets. Yellow is the Sun, green is the Earth, and grey is the Moon.
+4. **Distinct visuals:** **Materials** and **sizes** help differentiate planets — **yellow** Sun, **green** Earth, and **grey** Moon.  
 
-## Video ▶️
-[💾 Download the demonstration here!](Demonstrations/Demo1_Demonstration.webm) <br>
+## Video
+[▶️ Watch Demo Video](Demonstrations/Demo1_Demonstration.webm)
 
-[🔉 Download the voiceover demonstration here!](Demonstrations/Demo1_Voiceover_Demo.mp4)
